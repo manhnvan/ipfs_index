@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "name": "templerun",
+        "run_action": [
+            {
+                "IpfsHash": "QmfE7dV3nH1YNo5fJeZ4YebUYK4jgJn5Y9bxP7pqXr16o6",
+                "PinSize": 71427,
+                "Timestamp": "2021-09-12T03:13:56.849Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmPKeTZBYXTm212sk5251HxEoH5idDnNvTA3K8frwYxCjw",
+                "PinSize": 68858,
+                "Timestamp": "2021-09-12T04:55:07.524Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmQX3hRGTRHf2Qtwhy2MEf5ZERtAMcnsczTFVkVrHxWBWV",
+                "PinSize": 69413,
+                "Timestamp": "2021-09-12T04:55:06.485Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmPB5bCUcbojFxat2GBbve3WmoDNhAUqqNXBSqtqM4M1AP",
+                "PinSize": 69139,
+                "Timestamp": "2021-09-12T04:55:08.563Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmUiWE9frT4WGsThqtLtpimkL7n2xLX27UT66Y3prTe16X",
+                "PinSize": 66465,
+                "Timestamp": "2021-09-12T03:13:58.402Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmYQc8mTGXPoUFNGGG8z98Gycp5RYoP8qfpFk9tcgvhVr9",
+                "PinSize": 72098,
+                "Timestamp": "2021-09-12T04:55:07.473Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmegdqQNbLCgvjn6q6bgTvrTs6cKJv3bERkDAkyGTTMGHW",
+                "PinSize": 75488,
+                "Timestamp": "2021-09-12T03:15:36.718Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmUrMXS8UWrHDqqrXKmBvA9Q3YFM5duzgH4Q7epjBR8Ne4",
+                "PinSize": 73266,
+                "Timestamp": "2021-09-12T03:13:55.815Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmYMKqWrv1tLLrhGK5aSgXqWPPokejL47XjM2u8yDrHKj9",
+                "PinSize": 76716,
+                "Timestamp": "2021-09-12T03:15:38.183Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "Qmdv2vRqJm5dMN6Es9AWnjjk3g2xdAnTBhJ65v5mEX4jeL",
+                "PinSize": 75332,
+                "Timestamp": "2021-09-12T03:15:09.984Z",
+                "isDuplicate": true
+            }
+        ],
+        "base_speed": 100,
+        "red_barricade": 1.4215520668148032,
+        "green_barricade": 1.1886673883103185,
+        "yellow_barricade": 0.988844789349148,
+        "blue_barricade": 1.459818274963011,
+        "ping_barricade": 1.2747697199684667,
+        "black_barricade": 1.053466832756492
+    },
+    "pindataMetadata": {
+        "IpfsHash": "QmZJovJvWNyQH96uoo7aDketmjUkz324PAZs4gUh5Jw1hb",
+        "PinSize": 1639,
+        "Timestamp": "2021-09-12T09:36:41.531Z"
+    }
+}

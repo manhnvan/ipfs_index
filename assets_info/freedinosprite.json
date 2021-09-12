@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "name": "freedinosprite",
+        "run_action": [
+            {
+                "IpfsHash": "QmR8JoQqoqDdmssdEf9gzs9mb152yCeyhy7E9yez2vq8Fz",
+                "PinSize": 136191,
+                "Timestamp": "2021-09-12T04:25:06.187Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmdzAmwaxziEWa1ouks82eTY2XULztY1P34ivTUEpefDFB",
+                "PinSize": 118179,
+                "Timestamp": "2021-09-12T03:10:11.154Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmQX4ktzVNB9UKwGSYRTLudzYp3Gu5CGv9HBwz41DbiZR5",
+                "PinSize": 136288,
+                "Timestamp": "2021-09-12T03:10:13.686Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmQP1dXSKdkYRwcxPjGgZQ5iHH62L1V7ywfE3pSbZLfjt6",
+                "PinSize": 143557,
+                "Timestamp": "2021-09-12T03:10:04.577Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmbT55BfV9mvDMxKPatNbeeFk5ChXgCUNprDkGKfRKyquJ",
+                "PinSize": 137320,
+                "Timestamp": "2021-09-12T03:10:22.285Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmRzswZ1qwWx4FDEYhY6qSUUtEidQXqU4zEp4YRBZwb6gw",
+                "PinSize": 120301,
+                "Timestamp": "2021-09-12T04:25:06.804Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmSpkUfJYVi7zmxFBJn4RAyR6qhtWkDxyHaKx9vmZD9TTL",
+                "PinSize": 136328,
+                "Timestamp": "2021-09-12T03:09:52.414Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmRQwaf4q17cqexLeDQziUecwRe7Jm7BdC7fFPJ2LPBbZo",
+                "PinSize": 146304,
+                "Timestamp": "2021-09-12T04:25:05.802Z",
+                "isDuplicate": true
+            }
+        ],
+        "base_speed": 100,
+        "red_barricade": 0.8016143438728602,
+        "green_barricade": 1.4327456608625624,
+        "yellow_barricade": 1.11576962544637,
+        "blue_barricade": 1.1372114842363914,
+        "ping_barricade": 0.8982929015067417,
+        "black_barricade": 1.2940900737661154
+    },
+    "pindataMetadata": {
+        "IpfsHash": "QmRsfQgbQVwt3hJa5Py7Xce5i6j1kEp5LbYUyGiL9RdYjP",
+        "PinSize": 1381,
+        "Timestamp": "2021-09-12T09:19:18.558Z"
+    }
+}

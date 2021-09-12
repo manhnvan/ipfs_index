@@ -1,0 +1,165 @@
+{
+    "assets": [
+        {
+            "name": "adventure_girl",
+            "displayName": "Adventure Girl",
+            "path": "./assets/adventure_girl",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "cat",
+            "path": "./assets/cat",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "dog",
+            "path": "./assets/dog",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "cutegirlfiles",
+            "path": "./assets/cutegirlfiles",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "flatboy",
+            "path": "./assets/flatboy",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "freedinosprite",
+            "path": "./assets/freedinosprite",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "freeknight",
+            "path": "./assets/freeknight",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "jackfree",
+            "path": "./assets/jackfree",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "ninjaadventurenew",
+            "path": "./assets/ninjaadventurenew",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "ninjagirlnew",
+            "path": "./assets/ninjagirlnew",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "redhatfiles",
+            "path": "./assets/redhatfiles",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "robotfree",
+            "path": "./assets/templerun",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "santasprites",
+            "path": "./assets/santasprites",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "templerun",
+            "path": "./assets/templerun",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "zombieboys",
+            "path": "./assets/zombieboys",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        },
+        {
+            "name": "zombiegirls",
+            "path": "./assets/zombiegirls",
+            "actions": [
+                {
+                    "name": "run",
+                    "asset_prefix": "Run"
+                }
+            ]
+        }
+    ]
+}

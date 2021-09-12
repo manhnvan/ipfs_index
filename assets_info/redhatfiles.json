@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "name": "redhatfiles",
+        "run_action": [
+            {
+                "IpfsHash": "Qmf4Euq87Bsgowi2qJdfMPJy8YFLJ5WVZ1BaH15JEGonTt",
+                "PinSize": 71860,
+                "Timestamp": "2021-09-12T03:13:57.273Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "Qmeb3hcz6vsTV7rgav7Uvoha5CTyi94PGPZiY983M7RJT6",
+                "PinSize": 66185,
+                "Timestamp": "2021-09-12T04:50:05.821Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmNeVYnvBWHXdb4anaa3JT8gY6Sm63JMqjUgvZj5c9RR3q",
+                "PinSize": 76387,
+                "Timestamp": "2021-09-12T04:50:08.416Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmPxBBabseZ96N1NbsH9eKRhhJjQCJXVDmqWPe3vBdU7kC",
+                "PinSize": 77730,
+                "Timestamp": "2021-09-12T04:50:06.856Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmRiXWF6GuNYhDBsBtjaMwpb3YCtf6U8GTGoVHFamLe4zn",
+                "PinSize": 71202,
+                "Timestamp": "2021-09-12T03:15:44.644Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmQKxqmvjTXaFNEh4zzxmHw9VKcmLEowK5CoBhFFQsFQeJ",
+                "PinSize": 67514,
+                "Timestamp": "2021-09-12T04:50:07.003Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmUhZD5p3ugEXEdg3AZvtZRfzLA8ipyZiNhKPSAnEW2Gnb",
+                "PinSize": 77540,
+                "Timestamp": "2021-09-12T04:50:05.503Z",
+                "isDuplicate": true
+            },
+            {
+                "IpfsHash": "QmSsrf7EAvLBk26nRiaSK25wWKzFENV5P8qMTQCUQyd6s4",
+                "PinSize": 79127,
+                "Timestamp": "2021-09-12T03:15:44.048Z",
+                "isDuplicate": true
+            }
+        ],
+        "base_speed": 100,
+        "red_barricade": 1.3875006637004508,
+        "green_barricade": 1.0597958439854118,
+        "yellow_barricade": 0.9292221373999345,
+        "blue_barricade": 0.9849152138055777,
+        "ping_barricade": 1.2304909062977378,
+        "black_barricade": 1.0470092848046098
+    },
+    "pindataMetadata": {
+        "IpfsHash": "QmYf7kXK2cS7U3XaM9rHBfTKZifzTQd6qe92Q5Tpy1qrUA",
+        "PinSize": 1372,
+        "Timestamp": "2021-09-12T09:30:07.851Z"
+    }
+}
